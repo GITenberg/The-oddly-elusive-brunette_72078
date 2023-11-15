@@ -1,0 +1,41 @@
+_repo: The-oddly-elusive-brunette_72078
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emsh
+    - Emsh, Ed
+    - Alexander, Ed
+    - Emshwiller, Edmund A.
+    - Willer
+    - EMSH
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: https://en.wikipedia.org/wiki/Ed_Emshwiller
+creator:
+  author:
+    agent_name: Peterson, John Victor
+    alias: Valding, Victor
+    gutenberg_agent_id: '33468'
+    url: http://www.gutenberg.org/2009/agents/33468
+description: ''
+gutenberg_issued: '2023-11-09'
+identifiers:
+  gutenberg: '72078'
+language: en
+pgterms:marc905: 20230917075257peterson
+pgterms:marc906: '1958'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1958.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The oddly elusive brunette
+url: http://www.gutenberg.org/ebooks/72078
